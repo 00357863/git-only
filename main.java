@@ -1,6 +1,6 @@
 class Test {
     public static void main(String [] args){
-        System.out.println("my name is nong");
+        System.out.println("my name is nong1");
         System.out.println("Hello world");
         System.out.println("my name is tom");
          System.out.println("Hello world2");
